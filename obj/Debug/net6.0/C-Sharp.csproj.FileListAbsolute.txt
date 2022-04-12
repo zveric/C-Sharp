@@ -1,0 +1,15 @@
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/C-Sharp
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/C-Sharp.deps.json
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/C-Sharp.runtimeconfig.json
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/C-Sharp.dll
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/ref/C-Sharp.dll
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/bin/Debug/net6.0/C-Sharp.pdb
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.csproj.AssemblyReference.cache
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.AssemblyInfoInputs.cache
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.AssemblyInfo.cs
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.csproj.CoreCompileInputs.cache
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.dll
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/ref/C-Sharp.dll
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.pdb
+/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/Debug/net6.0/C-Sharp.genruntimeconfig.cache
