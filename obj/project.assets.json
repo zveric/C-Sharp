@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/zveric/.nuget/packages/": {}
+    "/home/eric/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/C-Sharp.csproj",
+      "projectUniqueName": "/home/eric/Documents/Coding/C-Sharp/C-Sharp.csproj",
       "projectName": "C-Sharp",
-      "projectPath": "/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/C-Sharp.csproj",
-      "packagesPath": "/home/zveric/.nuget/packages/",
-      "outputPath": "/home/zveric/Coding/CSHARP/CSHARP/C-Sharp/obj/",
+      "projectPath": "/home/eric/Documents/Coding/C-Sharp/C-Sharp.csproj",
+      "packagesPath": "/home/eric/.nuget/packages/",
+      "outputPath": "/home/eric/Documents/Coding/C-Sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/zveric/.nuget/NuGet/NuGet.Config"
+        "/home/eric/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
       }
     }
   }
